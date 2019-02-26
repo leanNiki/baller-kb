@@ -1,3 +1,5 @@
+# THE WIRING IS WRONG, THE TEENSY PINS ARE NOT CORRECT
+
 # baller-kb
 Split 50% keyboard with blackberry trackball
 
